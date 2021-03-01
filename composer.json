@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "laravel/dusk": "^6.9",
+        "laravel/ui": "^3.2"
+    }
+}
